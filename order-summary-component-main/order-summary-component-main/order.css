@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    background-image: url('../../../FRONTEND\ MENTOR\ CHALLENGES/order-summary-component-main/order-summary-component-main/images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.entirecontent {
+    background-color: white;
+    width: 450px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 100px;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+
+.hero svg {
+    /* width: 400px; */
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.dark-blue {
+    color: hsl(223, 47%, 23%);
+}
+
+.para.one{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.para {
+    color: hsl(224, 23%, 55%);
+}
+
+.line-one {
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.dark-blue.plan {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.line-two {
+    background-color: hsl(245, 75%, 52%);
+    padding: 10px 0;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 15px 15px hsl(246, 72%, 89%);
+}
+
+#payment {
+    color: white;
+    font-size: 15px; 
+    text-align: center;
+}
+
+.para.last {
+    text-align: center;
+    padding-bottom: 50px;
+    color: hsl(223, 47%, 23%); 
+}
+
+.gene {
+    display: flex;
+}
+
+.annual {
+    padding-top: 20px;
+}
+
+.para.number {
+    padding-top: 5px;
+}
+
+.music {
+    padding: 20px;
+}
+
+.line-one {
+    display: flex;
+}
+
+.change {
+    font-size: 11px;
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+    margin: 0 110px;
+    padding-top: 35px;
+}
+
